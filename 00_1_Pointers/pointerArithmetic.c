@@ -46,6 +46,7 @@ int main(){
     printf("\n%p",ptr4 == ptr6); //1 - true
 
 
+
     
     return 0;
 }
